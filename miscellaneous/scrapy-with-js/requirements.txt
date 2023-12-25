@@ -33,7 +33,7 @@ scrapy-playwright==0.0.26
 service-identity==21.1.0
 six==1.16.0
 tldextract==3.4.0
-Twisted==22.10.0
+Twisted==23.10.0
 typing_extensions==4.5.0
 urllib3==1.26.18
 w3lib==2.1.1
